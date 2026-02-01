@@ -22,3 +22,4 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
 ![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)
 ![FireBase](https://img.shields.io/badge/-Firebase-bd7800?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
